@@ -1,0 +1,25 @@
+nav {
+  height: 10vh;
+  min-height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ecaf09;
+}
+
+.header-title {
+  margin-left: 100px;
+}
+
+.link {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.cart-icon {
+  height: 30px;
+  width: 30px;
+  margin-right: 100px;
+}
